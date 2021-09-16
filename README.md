@@ -1,6 +1,6 @@
 # nodejsExample
 
- ### Enter the cookbook description here.
+## Enter the cookbook description here.
 
 ## Main Chef Commands:
 
@@ -21,10 +21,8 @@
 ```
 kitchen converge
 ```
-
 ### Prepare for testing
  - run setup
-
 ```
 kitchen setup
 ```
@@ -38,7 +36,6 @@ kitchen destroy
 ```
 Run all above ?
 kitchen create --> all the steps --> kitchen destroy?
-
 ```
 kitchen test
 
