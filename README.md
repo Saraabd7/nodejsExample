@@ -1,6 +1,6 @@
 # nodejsExample
 
-TODO: Enter the cookbook description here.
+ ### Enter the cookbook description here.
 
 ## Main Chef Commands:
 
