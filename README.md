@@ -30,11 +30,11 @@ kitchen setup
 ```
 kitchen verify
 ```
-Destroy your machine
+### Destroy your machine
 ```
 kitchen destroy
 ```
-Run all above ?
+### Run all above ?
 kitchen create --> all the steps --> kitchen destroy?
 ```
 kitchen test
